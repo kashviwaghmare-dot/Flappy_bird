@@ -1733,7 +1733,7 @@ MonoBehaviour:
   startScreen: {fileID: 863021481}
   gameOverScreen: {fileID: 1312637698}
   finalScoreText: {fileID: 1071308598}
-  highScoreText: {fileID: 0}
+  highScoreText: {fileID: 733801376}
   isPlaying: 0
   isGameOver: 0
 --- !u!4 &1621071702
